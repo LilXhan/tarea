@@ -1,8 +1,0 @@
-{
-  "files.associations": {
-    "*.pcss": "css",
-    ".postcssrc": "json",
-    ".stylelintrc": "json",
-    "ostream": "cpp"
-  }
-}
